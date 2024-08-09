@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ung_dung_doc_so/1.0.0": {
+        "runtime": {
+          "ung_dung_doc_so.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ung_dung_doc_so/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

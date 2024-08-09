@@ -1,0 +1,14 @@
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\ung_dung_doc_so\bin\Debug\net8.0\ung_dung_doc_so.exe
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\ung_dung_doc_so\bin\Debug\net8.0\ung_dung_doc_so.deps.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\ung_dung_doc_so\bin\Debug\net8.0\ung_dung_doc_so.runtimeconfig.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\ung_dung_doc_so\bin\Debug\net8.0\ung_dung_doc_so.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\ung_dung_doc_so\bin\Debug\net8.0\ung_dung_doc_so.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\ung_dung_doc_so\obj\Debug\net8.0\ung_dung_doc_so.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\ung_dung_doc_so\obj\Debug\net8.0\ung_dung_doc_so.AssemblyInfoInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\ung_dung_doc_so\obj\Debug\net8.0\ung_dung_doc_so.AssemblyInfo.cs
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\ung_dung_doc_so\obj\Debug\net8.0\ung_dung_doc_so.csproj.CoreCompileInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\ung_dung_doc_so\obj\Debug\net8.0\ung_dung_doc_so.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\ung_dung_doc_so\obj\Debug\net8.0\refint\ung_dung_doc_so.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\ung_dung_doc_so\obj\Debug\net8.0\ung_dung_doc_so.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\ung_dung_doc_so\obj\Debug\net8.0\ung_dung_doc_so.genruntimeconfig.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\ung_dung_doc_so\obj\Debug\net8.0\ref\ung_dung_doc_so.dll
